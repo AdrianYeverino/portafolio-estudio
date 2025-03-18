@@ -4,7 +4,7 @@
     --color-primario: #000000; /* Corregí el valor (#0000 no es válido) */
     --color-secundario: #f6f6f6;
     --color-terciario: #22d4fd;
-    --color-hover: #272727
+    --color-hover: #272727;
 
     --fuente-montserrat: 'Montserrat', sans-serif;
     --fuente-krona: 'Krona One', sans-serif; /* Corregí el nombre de la variable (funete-krona -> fuente-krona) */
